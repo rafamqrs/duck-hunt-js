@@ -2,9 +2,6 @@
 
 This is a simple but fun Duck Hunt-inspired game with a quirky twist, built with JavaScript and HTML5.
 
-[![Play the Game](https://img.shields.io/badge/Play%20Now-Click%20Here-brightgreen)](https://your-game-url.com)
-[![GitHub license](https://img.shields.io/github/license/your-username/duck-hunt-the-quackening)](https://github.com/your-username/duck-hunt-the-quackening/blob/main/LICENSE)
-
 ## Game Features
 
 *   A duck with a silly face moves across the screen, bouncing off the edges.
